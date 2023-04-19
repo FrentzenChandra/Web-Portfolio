@@ -1,0 +1,48 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.mk {
+    margin-right: -20px;
+}
+
+.nav-item a {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    margin-top: -10px;
+}
+
+.jbtrn {
+    background-color: #D1E2FD;
+}
+
+.gambar {
+    
+    background-position: 10px;
+}
+
+.align-justify {
+    text-align: justify;
+}
+
+.foot {
+    background-color: #ff5500;
+}
+
+
+svg {
+    margin-right: -20px;
+    margin-bottom: -10px;
+}
+
+.nav-item:hover a {
+    color: grey;
+}
+
+section {
+    padding-top: 30px;
+}
